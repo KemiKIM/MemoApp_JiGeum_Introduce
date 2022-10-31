@@ -1,5 +1,5 @@
 # 지금 : 세상에서 가장 간단한 메모 앱
-> **Introducing the App: https://kimseongho.tistory.com/143    **
+> Introducing the App: https://kimseongho.tistory.com/143
 &nbsp;
 
 
