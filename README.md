@@ -21,7 +21,16 @@
 ## 🏹. 이 프로젝트를 통해 목표한 점
 
 #### - 첫번째. No Library, Only Code Base
-다양한 학습으로써 느꼈던 가장 중요한 점은, Storyboard를 사용하더라도, code의 내용을 이해하지 못하면 둘 다 완벽하게 활용할 수 없다는 것이였습니다. swift의 있는 그대로의 느낌을 이해하기 위해 라이브러리를 사용하지 않고, code base로만 앱을 구상하여, 향후 Stroyboard의 사용과 view에 대한 이해를 높이고자 노력했습니다.
+다양한 학습으로써 느꼈던 가장 중요한 점은, Storyboard attribute inspector의 내용이 원래 code로 구성할 수 있다는 점이였습니다.
+
+
+Storyboard를 사용하더라도, 
+
+
+
+code의 내용을 이해하지 못하면 Stroyboard와 code 둘 다 완벽하게 활용할 수 없다는 것이였습니다. 
+code base로 만들어보며, 학습한 뒤 추후 Storyboard를 병행하여 사용
+swift의 있는 그대로의 느낌을 이해하기 위해 라이브러리를 사용하지 않고, code base로만 앱을 구상하여, 향후 Stroyboard의 사용과 view에 대한 이해를 높이고자 노력했습니다.
 
 #### - 두번째. MVC Pattern Understanding
 MVVM, MVC Pattern을 모두 이해하고자 하는 것도 좋지만, MVVM Pattern은 MVC Pattern의 이해가 바탕이 되어야 하기 때문에, 보다 현실적인 목표로 MVC Pattern을 이해하는 것에 집중했습니다.
@@ -37,6 +46,8 @@ MVVM, MVC Pattern을 모두 이해하고자 하는 것도 좋지만, MVVM Patter
 ## 📖. 학습한 내용과 부족한 내용
 
 - 코드 길이에 대한 압박.
+- 재사용성에 대한 고찰
+
 
 &nbsp;
 </br>
@@ -45,8 +56,10 @@ MVVM, MVC Pattern을 모두 이해하고자 하는 것도 좋지만, MVVM Patter
 
 
 ## 💻. Development Environment
--> Xcode `13.4`
+-> Xcode `13.4`, iOS 13.0 기준.
+
 -> Code Base ( No Stroyboard )
+
 -> base controller를 사용하지 않은 이유.
 &nbsp;
 </br>
@@ -55,8 +68,20 @@ MVVM, MVC Pattern을 모두 이해하고자 하는 것도 좋지만, MVVM Patter
 
 
 ## 🔧. 구현 기능
-당겨서 메모하기.
-앱을 키자마자 즉각적인 메모 쓰기 제공화면을 통해, 사용자에게 빠른 메모 환경을 제공.
+1. 앱을 키자마자 즉각적인 메모 쓰기 제공화면을 통해, 사용자에게 빠른 메모 환경을 제공.
+
+좋은 생각, 좋은 아이디어를 빠르게 적기 위한 간단하지만 필수적인 기능.
+
+
+
+2. 메인 화면에서 당겨서 메모하기.
+refresh 기능은 대표적으로 새로고침으로 많이 쓰이지만, 여기에 메모쓰기화면으로 전환을 통해 보다 편한 메모쓰기 기능을 사용자에게 제공
+
+
+
+3. 간편한 복사 기능을 통해 공유기능을 원치 않은 사용자에게 선택권을 부여.
+
+
 &nbsp;
 </br>
 </br>
