@@ -148,9 +148,16 @@ refresh 기능은 대표적으로 새로고침으로 많이 쓰이지만, 여기
 </br>
 </br>
 
-## 🕜&nbsp; 심사 및 출시
+## 🕜&nbsp; 출시 및 업데이트 내역
 
-#### 출시: 2022.10.31 (v.1.0.0)
+### 출시: 2022.10.31 (v.1.0.0)
+
+</br>
+
+### 업데이트 내역</br>
+#### v.1.0.1: textview background 색상 변경</br></br>
+#### v.1.0.2: Dark Mode에서 text color error 수정 및 일부 UI 수정.</br></br>
+#### v.2.0.0: 전체적인 UI 대폭 수정, 불필요한 기능 제거(background color 변경, app 설정), 메모 복사기능 추가</br></br>
 
 
 &nbsp;
@@ -158,10 +165,3 @@ refresh 기능은 대표적으로 새로고침으로 많이 쓰이지만, 여기
 </br>
 
 
-
-
-
-## 🆙&nbsp; 업데이트 내역
-#### v.1.0.1: textview background 색상 변경</br></br>
-#### v.1.0.2: Dark Mode에서 text color error 수정 및 일부 UI 수정.</br></br>
-#### v.2.0.0: 전체적인 UI 대폭 수정, 불필요한 기능 제거(background color 변경, app 설정), 메모 복사기능 추가</br></br>
